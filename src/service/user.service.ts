@@ -9,6 +9,4 @@ export async function createUser(input: DocumentDefinition<UserDocument>) {
   }
 }
 function findUser() {
-
-    createUser({})
 }
